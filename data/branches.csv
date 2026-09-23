@@ -1,0 +1,51 @@
+Branch_ID,Branch_Name,City,State,Region
+BR001,New Delhi South Ext Branch,New Delhi,Delhi,North
+BR002,Noida Main Branch,Noida,Uttar Pradesh,North
+BR003,Gurugram Main Branch,Gurugram,Haryana,North
+BR004,Chandigarh South Ext Branch,Chandigarh,Punjab,North
+BR005,Jaipur Commercial Branch,Jaipur,Rajasthan,North
+BR006,Lucknow City Center Branch,Lucknow,Uttar Pradesh,North
+BR007,Dehradun City Center Branch,Dehradun,Uttarakhand,North
+BR008,Kanpur City Center Branch,Kanpur,Uttar Pradesh,North
+BR009,Amritsar South Ext Branch,Amritsar,Punjab,North
+BR010,Agra Main Branch,Agra,Uttar Pradesh,North
+BR011,Bengaluru South Ext Branch,Bengaluru,Karnataka,South
+BR012,Chennai South Ext Branch,Chennai,Tamil Nadu,South
+BR013,Hyderabad West End Branch,Hyderabad,Telangana,South
+BR014,Kochi Main Branch,Kochi,Kerala,South
+BR015,Coimbatore West End Branch,Coimbatore,Tamil Nadu,South
+BR016,Visakhapatnam Metro Branch,Visakhapatnam,Andhra Pradesh,South
+BR017,Mysuru Main Branch,Mysuru,Karnataka,South
+BR018,Thiruvananthapuram Main Branch,Thiruvananthapuram,Kerala,South
+BR019,Madurai Main Branch,Madurai,Tamil Nadu,South
+BR020,Vijayawada City Center Branch,Vijayawada,Andhra Pradesh,South
+BR021,Mumbai City Center Branch,Mumbai,Maharashtra,West
+BR022,Pune West End Branch,Pune,Maharashtra,West
+BR023,Ahmedabad West End Branch,Ahmedabad,Gujarat,West
+BR024,Surat Main Branch,Surat,Gujarat,West
+BR025,Nagpur West End Branch,Nagpur,Maharashtra,West
+BR026,Vadodara City Center Branch,Vadodara,Gujarat,West
+BR027,Nashik South Ext Branch,Nashik,Maharashtra,West
+BR028,Rajkot South Ext Branch,Rajkot,Gujarat,West
+BR029,Panaji South Ext Branch,Panaji,Goa,West
+BR030,Aurangabad West End Branch,Aurangabad,Maharashtra,West
+BR031,Kolkata Metro Branch,Kolkata,West Bengal,East
+BR032,Bhubaneswar City Center Branch,Bhubaneswar,Odisha,East
+BR033,Patna Metro Branch,Patna,Bihar,East
+BR034,Ranchi West End Branch,Ranchi,Jharkhand,East
+BR035,Guwahati Commercial Branch,Guwahati,Assam,East
+BR036,Siliguri Main Branch,Siliguri,West Bengal,East
+BR037,Cuttack City Center Branch,Cuttack,Odisha,East
+BR038,Jamshedpur South Ext Branch,Jamshedpur,Jharkhand,East
+BR039,Durgapur Metro Branch,Durgapur,West Bengal,East
+BR040,Shillong Commercial Branch,Shillong,Meghalaya,East
+BR041,Bhopal Commercial Branch,Bhopal,Madhya Pradesh,Central
+BR042,Indore City Center Branch,Indore,Madhya Pradesh,Central
+BR043,Raipur City Center Branch,Raipur,Chhattisgarh,Central
+BR044,Jabalpur Commercial Branch,Jabalpur,Madhya Pradesh,Central
+BR045,Gwalior Main Branch,Gwalior,Madhya Pradesh,Central
+BR046,Bilaspur Main Branch,Bilaspur,Chhattisgarh,Central
+BR047,Ujjain Metro Branch,Ujjain,Madhya Pradesh,Central
+BR048,Durg Main Branch,Durg,Chhattisgarh,Central
+BR049,Kota Commercial Branch,Kota,Rajasthan,Central
+BR050,Prayagraj Commercial Branch,Prayagraj,Uttar Pradesh,Central
